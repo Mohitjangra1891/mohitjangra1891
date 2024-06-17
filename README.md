@@ -1,11 +1,16 @@
 <h1 align="center">Hi 👋, I'm Mohit Jangra</h1>
-<h3 align="center">A passionate Flutter Application developer from India</h3>
-
-
+<!-- <h3 align="center">A passionate Flutter Application developer from India</h3> -->
+<div align="center">
+  
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7E511&width=435&lines=I'm+a+Full+Stack+Flutter+Developer.;Welcome+to+my+Github." alt="Typing SVG" /></a>      </div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/_mohitjangra_19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_mohitjangra_19" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/code with mav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="code with mav" height="30" width="40" /></a>
+<a href="https://instagram.com/_mohitjangra_19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_mohitjangra_19" height="30" width="40" /></a> 
+ <a href="https://www.youtube.com/c/code with mav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="code with mav" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/mohit-jangra-894b53221/" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" alt="code with mav" height="40" width="40" /></a>
+
+
+  
 </p>
 
 
