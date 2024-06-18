@@ -7,7 +7,7 @@
 <p align="left">
 <a href="https://instagram.com/_mohitjangra_19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_mohitjangra_19" height="30" width="40" /></a> 
  <a href="https://www.youtube.com/c/code with mav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="code with mav" height="40" width="40" /></a>
-<a href="https://www.linkedin.com/in/mohit-jangra-894b53221/" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" alt="code with mav" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/mohit-jangra-894b53221/" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" alt="Linkedin" height="40" width="40" /></a>
 
 
   
